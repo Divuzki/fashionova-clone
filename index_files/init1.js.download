@@ -8,7 +8,7 @@ bouncex.init1Response({
         "shqiid": "lceapzns27-1",
         "swv": false,
         "did": "1099671438825277746",
-        "vid": 1741526635674034,
+        "vid": 1741537584836533,
         "v": {
             "ever_logged_in": false,
             "cart_value": "",
@@ -21,26 +21,26 @@ bouncex.init1Response({
             "attv_coupon": "false"
         },
         "pdFirstLoad": true,
-        "fvt": 1741526635,
+        "fvt": 1741537584,
         "ao": 0,
         "lp": "https%3A%2F%2Fwww.fashionnova.com%2F",
         "as": 0,
         "vpv": 1,
         "d": "d",
         "r": "",
-        "cvt": 1741526635,
+        "cvt": 1741537584,
         "sid": -1,
-        "gcr": 16,
+        "gcr": 13,
         "m": 0,
-        "lvt": 1741526635,
+        "lvt": 1741537584,
         "campaigns": {
             "1848842": {
                 "vv": 0,
-                "lvt": 1741526635
+                "lvt": 1741537584
             },
             "1848848": {
                 "vv": 0,
-                "lvt": 1741526635
+                "lvt": 1741537584
             }
         }
     },
@@ -53,7 +53,7 @@ bouncex.init1Response({
     "state": {
         "newvid": true,
         "iol": true,
-        "tn": 1741526635,
+        "tn": 1741537584,
         "pvid": 1,
         "gdpr": false,
         "casl": false,
@@ -65,7 +65,7 @@ bouncex.init1Response({
             "device_type": "desktop"
         },
         "no_kinesis": true,
-        "request_token": "3e7f22eb156489c7068fb97df25b660aa8d2a25b40e1275c385cc55490de3d38",
+        "request_token": "17928e55cd5e6892ab3e3f7bc3587f64fc7021f97fd521e80008df9679dc9545",
         "mobile": false,
         "vip": "102.91.4.106",
         "geo": {

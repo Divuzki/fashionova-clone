@@ -9,7 +9,7 @@ bouncex.tryCatch(function reloadCampaigns(){
 		bouncex.gbi.stacks = false;
 	}
 
-	var newCookie = {"shqiid":"lceapzns27-1","swv":false,"did":"1099671438825277746","vid":1741526557312953,"v":{"ever_logged_in":false,"cart_value":"","submitted_onsite":false,"cart_set":false,"cart":false,"logged_in_identified":"false","prev_sku":"false","coupon_code_url":"false","attv_coupon":"false"},"pdFirstLoad":true,"fvt":1741526557,"ao":1,"lp":"https%3A%2F%2Fwww.fashionnova.com%2F","as":1,"vpv":1,"d":"d","r":"","cvt":1741526557,"sid":3,"gcr":61,"m":0,"lvt":1741526558,"campaigns":{"1848842":{"vv":1,"lvt":1741526558,"lavid":1741526557312953,"la":1741526558,"av":1,"fsa":1741526558,"as":1,"ao":1,"oa":[1741526558],"io":1},"1848848":{"vv":0,"lvt":1741526557}}};
+	var newCookie = {"shqiid":"lceapzns27-1","swv":false,"did":"1099671438825277746","vid":1741526557312953,"v":{"ever_logged_in":false,"cart_value":"","submitted_onsite":false,"cart_set":false,"cart":false,"logged_in_identified":"false","prev_sku":"false","coupon_code_url":"false","attv_coupon":"false"},"pdFirstLoad":true,"fvt":1741526557,"ao":1,"lp":"https%3A%2F%2Fwww.fashionnova.com%2F","as":1,"vpv":1,"d":"d","r":"","cvt":1741526557,"sid":3,"gcr":61,"m":0,"lvt":1741526558,"campaigns":{"1848842":{"vv":0,"lvt":1741526558,"lavid":1741526557312953,"la":1741526558,"av":0,"fsa":1741526558,"as":1,"ao":1,"oa":[1741526558],"io":1},"1848848":{"vv":0,"lvt":1741526557}}};
 	var campaignAdded = false;
 	for (var campaignId in newCampaigns) {
 		if (newCampaigns.hasOwnProperty(campaignId)) {
